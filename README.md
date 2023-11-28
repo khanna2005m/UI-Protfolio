@@ -1,2 +1,1 @@
-# UI-Protfolio
-Lead the development of applications for major clients and built advanced UI Frameworks for web applications (lwc).
+Just change `src/portfolio.js` to get your personal portfolio. Customize portfolio theme by using your own color scheme globally in the `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
