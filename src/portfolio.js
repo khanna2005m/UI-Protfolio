@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Khanna",
+  username: "Khanna Profile",
   title: "Hi all, I'm Khannaiah",
   subTitle:
     "A passionate UI/UX Developer 16 + years having an experience of building Web, Responsive Layouts with Angular / Reactjs / JavaScript / HTML5 / CSS3 / LESS / SASS / Bootstrap / Figma and some other cool libraries and frameworks. •	Conceptualized, designed and developed the UI that are visually pleasing and highly efficient. Provided effective and functional web designs to customers that met their specific business/personal needs",
