@@ -125,9 +125,9 @@ const educationInfo = {
     {
       schoolName: "Osmania University",
       subHeader: "BCom Computer",
-      duration: "September 2000 - April 2003",
-      desc: "",
-      descBullets: [""]
+      duration: "September 2000 - April 2003"
+      // desc: "",
+      // descBullets: [""]
     }
   ]
 };
